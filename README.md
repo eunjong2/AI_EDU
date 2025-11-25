@@ -43,13 +43,13 @@ npx --version
 
 # 실습자료 제출 
 1. 프롬프트 엔지니어링 실습  
-   https://form.jotform.com/253201025182038
+   [https://form.jotform.com/253201025182038](https://form.jotform.com/253282700366051)
 2. MCP 실습  
-   https://form.jotform.com/253200989370459  
+   [https://form.jotform.com/253200989370459 ](https://form.jotform.com/253282217217453) 
 3. RAG 실습  
-   https://form.jotform.com/253200617068451  
+   [https://form.jotform.com/253200617068451](https://form.jotform.com/253282895402461)  
 4. Agent 실습  
-   https://form.jotform.com/253200326194448  
+   [https://form.jotform.com/253200326194448  ](https://form.jotform.com/253282267546463)
 
 
 # 기타 참고 자료
